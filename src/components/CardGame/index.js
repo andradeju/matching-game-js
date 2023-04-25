@@ -6,7 +6,6 @@ function CardGame() {
             <img src="images/alura.png" alt="Logo da Alura"> 
         </article>
     `;
-
 }
 
 export default CardGame;
